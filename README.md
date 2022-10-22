@@ -39,6 +39,10 @@
 
 ![image](https://user-images.githubusercontent.com/108692258/197349659-a55f74a7-6640-4735-a029-7143dc555fbe.png)
 
-
+#### Design and Documented by
+##### Sisila Jayamal Senevirathna. 
+##### Faculty of Engineering, 
+##### University Of Jaffna. 
+##### All Rights Reserved!
 
 
