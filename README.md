@@ -1,0 +1,2 @@
+# Environmental-Impact-Assessment-of-Lakvijaya-Power-Plant
+  Lakvijaya Power Plant is the first coal-fired power plant established in Sri Lanka. surrounding Communities say the coal plant affects health, safety, and livelihoods. It also causes some damage to the environment. As part of the environmental pollution control project, we conducted a survey at the Lakvijaya Coal power Plant, observed the problems there and provided some solutions.
