@@ -26,11 +26,19 @@
 ### 4.Generator Room
 ![IMG20190803122153-243](https://user-images.githubusercontent.com/108692258/197349238-d52541d7-9ffd-443b-9c1f-db380769e2ec.jpg)
 
-##Provided recommendations to minimize issues.
+## Provided recommendations to minimize issues.
 
-1. Imported coal should meet the prescribed standards properly
-A regular monitoring system should be established.
-2. More studies should be conducted about the long term impacts
+1. Imported coal should meet the prescribed standards properlyA regular monitoring system should be established.
+2. More studies should be conducted about the long term impacts.
 3. Fly ash could be used as a raw material for other industries.
+4. EIA reports should reveal the real situation of the impacts Mass scale projects should establish with good quality workmanship.
+5. To establish only environment -friendly high efficient coal power plants using “clean coal technology". 
+6. planting trees in the buffer zone was impractical due to sheer scale of carbon emissions from coal power plants.
+7. Fly ash use to: Making cement, Making asbestos sheet.
+8. Bottom ash use to: Making cement block stone, Making some Building apparatus
+
+![image](https://user-images.githubusercontent.com/108692258/197349659-a55f74a7-6640-4735-a029-7143dc555fbe.png)
+
+
 
 
